@@ -37,38 +37,71 @@ Add screenshots of your latest designs here (small thumbnails).
 # Folder Structure :
 
 UI-Designs/
+
 │
 ├── README.md
-├── CONTRIBUTING.md          # Optional: How others can contribute UI designs
-├── Assets/                  # Common assets used in multiple designs
+
+├── CONTRIBUTING.md  # Optional: How others can contribute UI designs
+
+├── Assets/      # Common assets used in multiple designs
+
 │   ├── Icons/
+
 │   ├── Images/
+
 │   └── Fonts/
+
 │
+
 ├── Web/
+
 │   ├── Landing-Pages/
+
 │   │   ├── ProjectName-Date/  # e.g., Startup-Landing-2025
+
 │   │   │   ├── design.fig
+
 │   │   │   ├── design.png
+
 │   │   │   └── notes.md       # Brief explanation of design
+
 │   │   └── ...
+
 │   ├── Dashboards/
+
 │   ├── Portfolios/
+
 │   └── E-commerce/
+
 │
+
 ├── Mobile/
+
 │   ├── iOS/
+
 │   ├── Android/
+
 │   └── Flutter/
+
 │
+
 ├── Prototypes/
+
 │   ├── Figma/
+
 │   └── AdobeXD/
+
 │
+
 ├── Inspiration/
+
 │   ├── Dribbble/
+
 │   ├── Behance/
+
 │   └── Screenshots/
+
 │
+
 └── Old-Designs/             # Optional: archive older iterations
 
